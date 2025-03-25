@@ -38,6 +38,6 @@
 
 ### 📱 Contacts
 
-<a href="mailto:vicanthoniosoares@hotmail.com">
+<a href="vicanthoniosoares@hotmail.com">
     <img src="https://img.shields.io/badge/Hotmail-FFD700?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="HotMail Victor Anthonio">
 </a>
